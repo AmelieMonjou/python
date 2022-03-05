@@ -1,2 +1,2 @@
 # python
-Activités Python
+Activités Python pour les classes de lycée
